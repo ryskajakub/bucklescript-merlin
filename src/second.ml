@@ -1,0 +1,1 @@
+let variable = "some value"
